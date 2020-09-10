@@ -9,5 +9,11 @@ text-align:center
 }
 h2
 {
-text-align:justify"
+text-align:center;
+color:Darkgreen;
+font-family:monospace;
+}
+h3
+{
+text-align:justify;
 }

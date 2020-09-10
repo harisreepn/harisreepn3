@@ -17,7 +17,12 @@ h3
 {
 text-align:justify;
 }
-#movetxt
+#text
+
+Animated:abcd 10s infinite;
 {
+ @keyframes abcd{
+50%{margin-center:100px}
  color:Red;
+}
 }

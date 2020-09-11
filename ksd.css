@@ -17,12 +17,9 @@ h3
 {
 text-align:justify;
 }
-#text
 
-Animated:abcd 10s infinite;
+#marquee
 {
- @keyframes abcd{
-50%{margin-center:100px}
- color:Red;
-}
+ Overflow-x:marquee-line;
+ marquee-style:scroll;
 }

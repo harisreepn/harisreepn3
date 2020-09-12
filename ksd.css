@@ -18,8 +18,7 @@ h3
 text-align:justify;
 }
 
-#marquee
-{
- Overflow-x:marquee-line;
- marquee-style:scroll;
+#mytext {
+ transform:rotate(90deg);
+ webkit-transform:rotate(90deg);
 }

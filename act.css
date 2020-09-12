@@ -1,6 +1,6 @@
 
 body{
- background-color:Red;
+ background-color:Black;
  color:White;
  font-family:sans-serif;
  margin:auto;
@@ -13,5 +13,9 @@ font-family:serif;
 text-alignment:center;
 text-decoration:underline;
 }
-
-
+h3
+{
+ font-family:sans-serif;
+ margin:auto;
+ text-alignment:justified;
+}

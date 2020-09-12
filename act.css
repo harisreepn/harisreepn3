@@ -4,18 +4,23 @@ body{
  color:White;
  font-family:sans-serif;
  margin:auto;
- text-alignment:justified;
+ text-align:justified;
 }
 h1
 {
 Colour:Powderblue;
 font-family:serif;
-text-alignment:center;
+text-align:center;
 text-decoration:underline;
 }
 h3
 {
  font-family:sans-serif;
  margin:auto;
- text-alignment:justified;
+ text-align:justified;
+}
+h2
+{
+Color:"Red"
+text-decoration:underline;
 }

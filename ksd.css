@@ -24,3 +24,6 @@ text-align:justify;
  transform:rotate(90deg);
  webkit-transform:rotate(90deg);
 }
+#grad {
+  background-image: linear-gradient(#673AB7,#9575CD);
+}

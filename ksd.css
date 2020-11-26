@@ -20,7 +20,7 @@ text-align:justify;
  transform:rotate(90deg);
  webkit-transform:rotate(90deg);
 }
-#grad {
+grad {
   background-image: linear-gradient(#673AB7,#9575CD);
 }
 .bg-image {
@@ -31,3 +31,12 @@ background-position: center;
 background-repeat: no-repeat;
 background-size: cover;
 position: relative;
+}
+ol#horizontal-list {
+	min-width: 696px;
+	list-style: none;
+	padding-top: 20px;
+	}
+	ol#horizontal-list li {
+		display: inline;
+	}
